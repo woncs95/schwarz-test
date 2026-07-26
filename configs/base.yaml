@@ -1,0 +1,23 @@
+data:
+  path: index.csv
+  separator: ";"
+  encoding: utf-8
+  target_column: politikbereich
+  text_columns:
+    - name
+    - geber
+    - art
+    - anschrift
+    - zweck
+
+training:
+  random_state: 42
+  test_size: 0.20
+  n_trials: 20
+  cv_folds: 5
+  # Classes below this threshold cannot support a reliable stratified evaluation.
+  min_class_count: 5
+
+mlflow:
+  experiment_name: politikbereich-classification
+  tracking_uri: ./mlruns

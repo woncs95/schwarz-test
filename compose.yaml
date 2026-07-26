@@ -1,0 +1,10 @@
+services:
+  lab:
+    build: .
+    ports:
+      - "8888:8888"
+      - "5000:5000"
+    volumes:
+      - .:/workspace
+    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+

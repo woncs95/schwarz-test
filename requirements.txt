@@ -1,0 +1,27 @@
+# Interactive analysis
+jupyterlab==4.4.5
+ipykernel==6.30.0
+
+# Data and modelling
+pandas==2.3.1
+numpy==2.2.6
+scikit-learn==1.7.1
+rapidfuzz==3.14.5
+scipy==1.15.3
+joblib==1.5.1
+pyarrow==20.0.0
+
+# Experimentation and evaluation
+mlflow==3.1.4
+optuna==4.4.0
+evidently==0.7.14
+
+# Visualisation and configuration
+matplotlib==3.10.3
+seaborn==0.13.2
+PyYAML==6.0.2
+python-dotenv==1.1.1
+
+# Quality and tests
+pytest==8.4.1
+ruff==0.12.5

@@ -1,0 +1,61 @@
+---
+title: "Politikbereich 분류 모델 평가"
+format:
+  html:
+    toc: true
+    code-fold: true
+  pdf: default
+jupyter: politikbereich
+execute:
+  echo: false
+  warning: false
+---
+
+## 목적
+
+이 보고서는 Politikbereich 분류 후보 모델의 성능과 오류를 비교합니다.
+
+## 최종 실험 요약
+
+```{python}
+import json
+from pathlib import Path
+import pandas as pd
+
+root = Path.cwd().parent if Path.cwd().name == "reports" else Path.cwd()
+summary_path = root / "reports" / "generated" / "summary.json"
+if summary_path.exists():
+    summary = json.loads(summary_path.read_text(encoding="utf-8"))
+    display(pd.Series(summary, name="value").to_frame())
+else:
+    print("먼저 python -m src.train --config configs/base.yaml 을 실행하세요.")
+```
+
+## 클래스별 평가
+
+```{python}
+report_path = root / "reports" / "generated" / "classification_report.csv"
+if report_path.exists():
+    display(pd.read_csv(report_path, index_col=0))
+```
+
+## 혼동 행렬
+
+```{python}
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+matrix_path = root / "reports" / "generated" / "confusion_matrix.csv"
+if matrix_path.exists():
+    matrix = pd.read_csv(matrix_path, index_col=0)
+    plt.figure(figsize=(14, 12))
+    sns.heatmap(matrix, cmap="Blues")
+    plt.xlabel("Predicted")
+    plt.ylabel("Actual")
+    plt.tight_layout()
+```
+
+## 결론 및 한계
+
+최종 모델 선정 근거, 주요 오분류 패턴, 데이터 누수 및 클래스 불균형 관련 한계를 기록합니다.
+

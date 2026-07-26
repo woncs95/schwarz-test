@@ -1,0 +1,11 @@
+.venv
+.git
+__pycache__
+.pytest_cache
+mlruns
+mlartifacts
+models
+reports/generated
+index.csv
+.env
+
