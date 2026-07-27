@@ -1,0 +1,33 @@
+politikbereich;fasttext_label
+Antidiskriminierung;__label__Antidiskriminierung
+Arbeit;__label__Arbeit
+Bauen, Wohnen;__label__Bauen_Wohnen
+Berlin-Image;__label__Berlin_Image
+Bildung;__label__Bildung
+Bürgerschaftliches Engagement, Bürgerbeteiligung;__label__Burgerschaftliches_Engagement_Burgerbeteiligung
+Denkmalschutz;__label__Denkmalschutz
+Europa;__label__Europa
+Familie;__label__Familie
+Finanzen;__label__Finanzen
+Forschung;__label__Forschung
+Frauen;__label__Frauen
+Gesundheit;__label__Gesundheit
+Gleichstellung;__label__Gleichstellung
+Integration;__label__Integration
+Internationales;__label__Internationales
+Jugend;__label__Jugend
+Justiz;__label__Justiz
+Kirchen, Religions-, Weltanschauungsgemeinschaften;__label__Kirchen_Religions_Weltanschauungsgemeinschaften
+Kultur;__label__Kultur
+Medien;__label__Medien
+Pflege;__label__Pflege
+Sicherheit, Ordnung;__label__Sicherheit_Ordnung
+Soziales;__label__Soziales
+Sport;__label__Sport
+Stadtentwicklung;__label__Stadtentwicklung
+Tierschutz;__label__Tierschutz
+Umwelt;__label__Umwelt
+Verbraucherschutz;__label__Verbraucherschutz
+Verkehr;__label__Verkehr
+Wirtschaft;__label__Wirtschaft
+Wissenschaft;__label__Wissenschaft

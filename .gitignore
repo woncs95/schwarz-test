@@ -22,3 +22,21 @@ index.csv
 # !reports/generated/.gitkeep
 # data/processed/*
 # !data/processed/.gitkeep
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Large local experiment artifacts
+mlruns/
+mlartifacts/
+models/**/*.bin
+models/**/train.txt
+models/**/valid.txt
+models/**/full_train.txt
+data/processed/fasttext_train.txt
+data/processed/optuna_studies.db
+reports/quarto/logs/
+
+# Keep packaged submission archives, but ignore expanded copies.
+submission/*/
+!submission/*.zip

@@ -1,0 +1,2 @@
+model;validation_rows;accuracy;macro_f1;weighted_f1;balanced_accuracy;training_time_seconds;model_path
+fastText;4592;0.9383710801393729;0.7435465329186168;0.9371504625180076;0.717155899547668;58.59;d:\toydev\schwarz-test\models\fasttext\fasttext_politikbereich.bin
