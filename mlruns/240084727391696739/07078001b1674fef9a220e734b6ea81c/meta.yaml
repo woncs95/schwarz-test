@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/07078001b1674fef9a220e734b6ea81c/artifacts
+end_time: 1785157240085
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: 07078001b1674fef9a220e734b6ea81c
+run_name: Dummy Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785157239740
+status: 3
+tags: []
+user_id: woncs

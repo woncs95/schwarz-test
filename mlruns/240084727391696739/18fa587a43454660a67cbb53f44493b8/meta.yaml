@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/18fa587a43454660a67cbb53f44493b8/artifacts
+end_time: 1785163053620
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: 18fa587a43454660a67cbb53f44493b8
+run_name: SGD hinge balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785163053096
+status: 3
+tags: []
+user_id: woncs

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/e4242828caba4b6fb3b030bde3cf39d8/artifacts
+end_time: 1785168156132
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: e4242828caba4b6fb3b030bde3cf39d8
+run_name: Ablation - Text only
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785168155681
+status: 3
+tags: []
+user_id: woncs

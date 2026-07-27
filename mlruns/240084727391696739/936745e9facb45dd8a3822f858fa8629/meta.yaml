@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/936745e9facb45dd8a3822f858fa8629/artifacts
+end_time: 1785169014832
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: 936745e9facb45dd8a3822f858fa8629
+run_name: Ablation - Full with geber and art as text
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785169013792
+status: 3
+tags: []
+user_id: woncs

@@ -1,0 +1,112 @@
+entity_id_candidate;name_official_candidate;place_rank;place_id;place_name;formatted_address;places_status
+vr_009025;Brei nach neun e. V.;1.0;ChIJhfqMxBVQqEcR9ji_PG7SCZ0;Brei Nach Neun e.V.;Leuthener Str. 8, 10829 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_041884;Sportvereinigung Deutsche Jugendkraft Spandau e. V.;1.0;ChIJLZ-jCQJVqEcRENZD-AJV6TU;DJK Spandau Schützenverein;Hakenfelder Str. 30, 13587 Berlin;OK
+vr_028291;Sportvereinigung Deutsche Jugendkraft Westen zu Berlin e. V. (DJK Westen);1.0;ChIJq-57QlpEqEcRGJ9qrqlvCE8;Sportvereinigung Deutsche Jugendkraft Westen zu Berlin, Kurzname: DJK Westen;Krontalstraße 82, 12309 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_050000;Deutsche Bahn AG;1.0;ChIJpTiYcslRqEcRt0ackmzkKFg;Deutsche Bahn AG;Potsdamer Platz 2, 10785 Berlin;OK
+hrb_050000;Deutsche Bahn AG;2.0;ChIJ-1YVFgBRqEcRIxd0hF6pn0Q;Deutsche Bahn AG;Hauptbahnhof UG Parking Entrance, 10557 Berlin;OK
+vr_034436;aff Galerie e. V.;1.0;ChIJ1U-Wsm9OqEcRp1QBPDCWSr4;AFF Galerie e.V.;Kochhannstraße 14, 10249 Berlin-Bezirk Friedrichshain-Kreuzberg;OK
+hrb_075198;Kelim Galerie GmbH;1.0;ChIJ5YEZ0-VQqEcRutI1YRAH8Vk;Kelim Galerie Teppichreparatur, Restauration und Teppichreinigung;Leibnizstraße 56, 10629 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+vr_019161;Freie Galerie e. V.;1.0;ChIJ8Zfk-COrqUcRjoYUawINW3o;Freie Galerie e V;13465 Berlin, Deutschland;OK
+vr_035126;Schöneberg hilft e. V.;1.0;ChIJRRShONVRqEcRRsS4k2aER58;Schöneberg hilft e.V.;Geßlerstraße 11, 10829 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_005941;Trolle Schöneberg e. V.;1.0;ChIJU2yuwkNQqEcRjTbEG3KUGXU;Trolle Schöneberg e. V. (Kinderladen);Kyffhäuserstraße 19, 10781 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_141075;Klinik Schöneberg GmbH;1.0;ChIJ8a6l3Z5ZqEcR-Na5YUObyvQ;Klinik Schöneberg Belegkrankenhaus und ambulantes OP-Zentrum;Fuggerstraße 23, 10777 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_141075;Klinik Schöneberg GmbH;2.0;ChIJGcjvxTtRqEcR9rnVzM20OBI;Klinik Schöneberg;Fuggerstraße 23, 10777 Berlin;OK
+vr_009874;Institut für Kulturanalyse e. V.;1.0;ChIJM9QJdSNRqEcRurP8-qkDaK0;Institut für Kulturanalyse e.V.;Schloßstraße 7-8, 14059 Berlin;OK
+vr_033243;weltgewandt. Institut für interkulturelle politische Bildung e. V.;1.0;ChIJ31jTanhLqEcRgdGpPX6tHb8;weltgewandt. Institut für interkulturelle politische Bildung e.V.;Flämingstraße 122, 12689 Berlin-Bezirk Marzahn-Hellersdorf;OK
+hrb_237598;Valcom GmbH - Institut für Werte- und Kompetenzmanagement;;;;;ZERO_RESULTS
+hrb_016067;IGES Institut GmbH;1.0;ChIJW1k-mNpRqEcR4v9a8T2l2lw;IGES Institut GmbH;Friedrichstraße 180, 10117 Berlin;OK
+hrb_060530;Institut Hogan GmbH;1.0;ChIJpXlnHq5PqEcRch9zLF2h2Fc;Craniosacrale Therapie & Körperpsychotherapie Berlin Kreuzberg - Dr. med. Benedikt Hogan;Naturheilpraxis, Blücherstraße 58, 10961 Berlin;OK
+hrb_060530;Institut Hogan GmbH;2.0;ChIJ95cAPYtRqEcRioiEmAxa878;Hogan Lovells Cadwalader;Burgstraße 27, 10178 Berlin;OK
+nr_101320;GreenSign Institut GmbH;1.0;ChIJwzVT5sRQqEcRLVdhXPKQVN8;GreenSign Institut GmbH;Nürnberger Str. 49, 10789 Berlin;OK
+hrb_216838;2B Projektentwicklung GmbH;1.0;ChIJLfimPE7vQ0YR_zDkqxIB3vQ;Hanse Projektentwicklung 2 GmbH;Friedrichstraße 95, 10117 Berlin;OK
+hrb_094520;NDC Projektentwicklung GmbH;1.0;ChIJAbhuv-BRqEcR4jFC_YYLcDg;NDC Projektentwicklung GmbH;Neue Promenade 5, 10178 Berlin;OK
+hrb_203689;GTP Projektentwicklung GmbH;;;;;ZERO_RESULTS
+nr_100191;DJK Blau-Weiss;1.0;ChIJ3fF_yAlRqEcRC-fdcl4mOzk;DJK Blau-Weiss Berlin;Waldenserstraße 20, 10551 Berlin;OK
+nr_100191;DJK Blau-Weiss;2.0;ChIJ6W1L0qhQqEcRBwKXeC5P5aA;Tennis-Club 1899 e.V. Blau-Weiss;Waldmeisterstraße 10-20, 14193 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+nr_100191;DJK Blau-Weiss;3.0;ChIJZ_hjBYJRqEcRB_OaWpn5IiI;die DJK Blau-Weiss;Tegeler Str. 31, 13353 Berlin;OK
+vr_007405;DJK Schwarz Weiß Neukölln 1920;1.0;ChIJyQnGASdFqEcRh3fF4D6tloQ;DJK Schwarz-Weiß Neukölln e.V.;Buckower Damm 13, 12349 Berlin-Bezirk Neukölln;OK
+vr_003907;Sportvereinigung Deutsche Jugendkraft Wilmersdorf e. V.;1.0;ChIJJct7-PBQqEcRnaGSWgeFfnw;DJK-Wilmersdorf e.V.;Düsseldorfer Str. 13, 10719 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+vr_024023;Sportvereinigung Deutsche Jugendkraft Süd Berlin e. V.;1.0;ChIJgUnmQMNPqEcRm-VmpQmSo-g;DJK Süd e. V. JUDO Halle;Götzstraße 34, 12099 Berlin;OK
+vr_024023;Sportvereinigung Deutsche Jugendkraft Süd Berlin e. V.;2.0;ChIJLZ-jCQJVqEcRENZD-AJV6TU;DJK Spandau Schützenverein;Hakenfelder Str. 30, 13587 Berlin;OK
+vr_024023;Sportvereinigung Deutsche Jugendkraft Süd Berlin e. V.;3.0;ChIJyQnGASdFqEcRh3fF4D6tloQ;DJK Schwarz-Weiß Neukölln e.V.;Buckower Damm 13, 12349 Berlin-Bezirk Neukölln;OK
+vr_023557;Schwimmvereinigung Deutsche Jugendkraft Berlin-Reinickendorf e. V.;1.0;ChIJ2dAoTgBTqEcRxtuxiPvOiK4;DJK Berlin-Reinickendorf - Volleyball;Dannenwalder Weg 163-165, 13439 Berlin;OK
+vr_023557;Schwimmvereinigung Deutsche Jugendkraft Berlin-Reinickendorf e. V.;2.0;ChIJWStR70JUqEcRbxxRLn73LxQ;SSC Berlin – Reinickendorf eV;Treskowstraße 8, 13507 Berlin;OK
+vr_028436;Deutsche Jugendkraft Frauenfußball Club Britz 09 e. V.;1.0;ChIJf0DpGHJGqEcRC4thvDpck7Y;Frauen- und Mädchenfußball Berlin Britz - Neukölln DJK FFC Britz 09 e.V. - Spielstätte;Haarlemer Str. 23-27, 12359 Berlin;OK
+vr_028436;Deutsche Jugendkraft Frauenfußball Club Britz 09 e. V.;2.0;ChIJAQDkGHJGqEcRlZQIgcM2PJs;Djk Ffc Britz 09 - Geschäftsstelle;Alt-Rudow 41, 12357 Berlin;OK
+vr_005441;Wasserfreunde Spandau 04 e. V.;1.0;ChIJiXcZWOJWqEcR4iMPXNwqK7Q;Wasserfreunde Spandau 04 e.V.;Prinz-Friedrich-Karl-Weg 8, 14053 Berlin;OK
+vr_017250;TTC Borussia Spandau e. V.;1.0;ChIJk-nKqk9WqEcRQzIGdHNIriI;TTC Borussia Spandau e.V.;Grunewaldstraße 8, 13597 Berlin-Bezirk Spandau;OK
+nr_100009;Deutscher Handball Bund;1.0;ChIJUZgXYgRXqEcR8hIq6475gtQ;Handball-Verband Berlin e.V.;Glockenturmstraße 3+5, 14053 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+hrb_091159;Nachbarschaftsheim Schöneberg Pflegerische Dienste gemeinnützige GmbH;1.0;ChIJmTsV2WNQqEcRAqhrRk5guJQ;Nachbarschaftsheim Schöneberg Pflegerische Dienste;Tübinger Str. 1, 10715 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+hrb_091159;Nachbarschaftsheim Schöneberg Pflegerische Dienste gemeinnützige GmbH;2.0;ChIJmaJtkHdQqEcRM8_QHqXRUrg;Nachbarschaftsheim Schöneberg;Holsteinische Str. 30, 12161 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_091159;Nachbarschaftsheim Schöneberg Pflegerische Dienste gemeinnützige GmbH;3.0;ChIJmTsV2WNQqEcRSt_O6-uNkJw;Nachbarschaftsheim Schöneberg, Sozialstation Friedenau;Bundesallee 50, 10715 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+vr_013515;Elterninitiative für Waldorfpädagogik in Schöneberg;1.0;ChIJnyMxaGNQqEcR_Tg626SX-Yo;Waldorfkindergarten Friedenau;Sieglindestraße 1, 12159 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_013515;Elterninitiative für Waldorfpädagogik in Schöneberg;2.0;ChIJ9wNQvnpQqEcRKqo26CuF26M;Waldorfkindergarten Elfenreigen;Lauterstraße 26, 12159 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_013515;Elterninitiative für Waldorfpädagogik in Schöneberg;3.0;ChIJ9WyRKEBQqEcRyo-oSbWSRuU;Waldorf Kita;Feurigstraße 22, 10827 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_025174;Au Fer Schöneberg e. V.;1.0;ChIJI8CG4j5QqEcR1YDNbHYSK4Q;au fer Schöneberg e.V.;Brunhildstraße 3, 10829 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_025174;Au Fer Schöneberg e. V.;2.0;ChIJ5f8P39BPqEcRrNuWkIjChDQ;au fer Schöneberg;Baerwaldstraße 52, 10961 Berlin-Bezirk Friedrichshain-Kreuzberg;OK
+vr_009005;Kiezoase Schöneberg e. V.;1.0;ChIJ45HTO0RQqEcResCNB5C4-M8;Kiezoase Schöneberg e.V.;Barbarossastraße 65l, 10781 Berlin;OK
+vr_003022;1.FC Schöneberg 1913 e. V.;1.0;ChIJj0Q6Ew1QqEcR8arg4rb8R7o;1. FC Schöneberg 1913 e.V.;Vorarlberger Damm 33, 12157 Berlin;OK
+hrb_216815;Schöneberg IT Consulting GmbH;1.0;ChIJRfYMclxQqEcRmBsygSDbO0s;NOVAGO Systemhaus;Rosenheimer Str. 20, 10779 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_216815;Schöneberg IT Consulting GmbH;2.0;ChIJVzG-CABRqEcRSkfRMj2mK5I;EB Consulting - Unternehmensberatung;Willmanndamm 10, 10827 Berlin;OK
+hrb_216815;Schöneberg IT Consulting GmbH;3.0;ChIJwdKpaT5RqEcRZkAJpxzVaZ0;Qubic IT Solutions GmbH;Akazienstraße 3a, 10823 Berlin;OK
+vr_011764;CLUB NAUTIQUE FRANCAIS DE TEGEL e. V.;1.0;ChIJhUtIcABVqEcRJMAMQpLOeOU;Club Nautique Français de Tegel;Schwarzer Weg 31, 13505 Berlin;OK
+hrb_058123;Centre Francais de Berlin - deutsch-französisches Kulturzentrum gemeinnützige Gesellschaft mit beschränkter Haftung;1.0;ChIJfbunZNxTqEcRyHSuIPhKU88;Centre Français de Berlin - deutsch-französisches Kulturzentrum gGmbH;Müllerstraße 74, 13349 Berlin;OK
+hrb_058123;Centre Francais de Berlin - deutsch-französisches Kulturzentrum gemeinnützige Gesellschaft mit beschränkter Haftung;2.0;ChIJp495mPtQqEcRJ_yhvJ4qO58;Institut français Berlin;Kurfürstendamm 211, 10719 Berlin;OK
+hrb_191154;WvM Berlin Zwieseler Straße GmbH;1.0;ChIJq6reVvdQqEcRqMEQWDcAZ3M;WvM Berlin Immobilien + Projektentwicklung GmbH;Leipziger Pl. 9, 10117 Berlin;OK
+hrb_191154;WvM Berlin Zwieseler Straße GmbH;2.0;ChIJGTIPV5RJqEcRjQur8vB6hwU;Zwieseler Hof – Eigentumswohnungen Berlin;Zwieseler Str. 164, 10318 Berlin;OK
+hrb_051763;STATTWERKE-CONSULT Gesellschaft für Unternehmensberatung und Projektentwicklung mbH;1.0;ChIJr2LztD9RqEcRv79o6AcEKWw;Stattwerke Consult GmbH;Huttenstraße 34, 10553 Berlin;OK
+hrb_051763;STATTWERKE-CONSULT Gesellschaft für Unternehmensberatung und Projektentwicklung mbH;2.0;ChIJSUFMaUFQqEcRoUIlXX3R3DE;STATTwerke Consult;Merseburger Str. 3, 10823 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_182186;Heftol Projektentwicklung GmbH;1.0;ChIJ16mxhsNQqEcRDtzjOOf7TJ8;Heftol Group;Kantstraße 34, 10625 Berlin-Bezirk Charlottenburg-Wilmersdorf;OK
+hrb_120126;COPRO Projektentwicklung GmbH;1.0;ChIJu-nMQsVRqEcRP_wYiZgJopo;COPRO;Jägerstraße 4, 10117 Berlin;OK
+hrb_182850;EL Projektentwicklung Mehringplatz GmbH;1.0;ChIJTTyk-GmQt0cRZraY2Fi2vPI;Projekt E GmbH Projektentwicklung & Immobilieninvestment;Backemuder Str. 14, 49716 Meppen-Helter Damm;OK
+hrb_182850;EL Projektentwicklung Mehringplatz GmbH;2.0;ChIJvdpQuMRRqEcRSqY29nQ7BTk;Best Place Immobilien;Unter den Linden 39, 10117 Berlin;OK
+hrb_182850;EL Projektentwicklung Mehringplatz GmbH;3.0;ChIJP2onc9YjZUER8ftStHHsYLM;STRATEGIS AG;Leipziger Str. 51, 10117 Berlin;OK
+hrb_193144;ZS Gewobag Projektentwicklung Hohensaatener Str. GmbH;1.0;ChIJRQ4HPRVUqEcR07BukWmQAD4;Gewobag Wohnungsbau-Aktiengesellschaft Berlin;Alt-Moabit 101A, 10559 Berlin;OK
+hrb_193144;ZS Gewobag Projektentwicklung Hohensaatener Str. GmbH;2.0;ChIJJQb6MABXqEcR2tI99CpP9Z0;Gewobag - Das Neue Gartenfeld;Alandstraße 31, 13599 Berlin-Bezirk Spandau;OK
+hrb_193144;ZS Gewobag Projektentwicklung Hohensaatener Str. GmbH;3.0;ChIJB8DZZ0ZWqEcRB-iVe5RP4KE;Gewobag Quartierbüro Heerstraße Nord;Blasewitzer Ring 24, 13593 Berlin;OK
+hrb_251413;Notos/Gewobag Projektentwicklung Allee der Kosmonauten GmbH;1.0;ChIJ7yw2F6tOqEcR5qvy2_VPmmI;Haus der Kosmonauten;Allee der Kosmonauten 32 B/C, 12681 Berlin-Bezirk Marzahn-Hellersdorf;OK
+kör_100066;ajaks - Arbeitsstelle für Evangelische Jugendarbeit im Kirchenkreis Spandau;1.0;ChIJWyIoNUFWqEcR50BabnOuimw;AJAKS Spandau;Carl-Schurz-Straße 53, 13597 Berlin-Bezirk Spandau;OK
+hrb_180974;behind the tree UG (haftungsbeschränkt);1.0;ChIJ_V0aIqBPqEcRbg55bdJb6nU;behind the tree;Warschauer Str. 39, 10243 Berlin-Bezirk Friedrichshain-Kreuzberg;OK
+hrb_253381;Tree.ly Deutschland GmbH;1.0;ChIJS_56xTlrm0cRdKudQu-0Pwg;Tree.ly FlexCo;Littengasse 2b, 6850 Dornbirn, Österreich;OK
+hrb_237110;Tree and Rocket UG (haftungsbeschränkt);1.0;ChIJiTjL0QRRqEcRGro26C8JfoM;Space Rocket - Webdesign und Online Marketing Berlin;Alt-Moabit 92, 10557 Berlin;OK
+hrb_237110;Tree and Rocket UG (haftungsbeschränkt);2.0;ChIJJ_xxFVtTqEcRN5dCs1h6CA8;Anchortree UG;Blankenfelder Str. 64, 13127 Berlin;OK
+hrb_237110;Tree and Rocket UG (haftungsbeschränkt);3.0;ChIJnekjLHhQqEcRosHWhJDUIQY;Team Tree;Dickhardtstraße 34, 12161 Berlin;OK
+hrb_222263;Tree Logistics GmbH;1.0;ChIJJ-cxTABRqEcRqTQ6GvnnOZM;Tree Logistics;Schönhauser Allee 163, 10435 Berlin;OK
+hrb_146215;Picture Tree International GmbH;1.0;ChIJm_3UO1lPqEcR_6F9RbWKWGI;Picture Tree International GmbH;Husemannstraße 7, 10435 Berlin-Bezirk Pankow;OK
+hrb_224837;Grow My Tree;1.0;ChIJJ7LS50rDuEcRbRlod-rRtBE;PLANT-MY-TREE;Amselstraße 5, 45134 Essen;OK
+vr_006886;Verein zur Förderung der Kommunikation unter Gropiusstädter-Frauen-Frauen-Café in der Gropiusstadt e. V.;1.0;ChIJV4ks5elFqEcRf_Q0hc3bKmQ;Frauen-Café Gropiusstadt;Löwensteinring 22A, 12353 Berlin;OK
+vr_036185;Unter einer Decke Kultur e. V.;1.0;ChIJaR1AnSxSqEcRFjus9wv4fkM;Unter Druck - Kultur von der Straße e.V.;Oudenarder Str. 26, 13347 Berlin;OK
+vr_036185;Unter einer Decke Kultur e. V.;2.0;ChIJ0VfJX3ghZUERN2d4yp1DSo8;Theater unterm Dach;Schönfließer Str. 7, 10439 Berlin;OK
+vr_036185;Unter einer Decke Kultur e. V.;3.0;ChIJncRx2aNPqEcRfkWAPBhIrDo;Kulturnetzwerk Neukölln e.V.;Karl-Marx-Straße 131, 12043 Berlin-Bezirk Neukölln;OK
+vr_012111;Unter Druck e. V.;1.0;ChIJaR1AnSxSqEcRFjus9wv4fkM;Unter Druck - Kultur von der Straße e.V.;Oudenarder Str. 26, 13347 Berlin;OK
+kör_100154;Katholische Kirchengemeinde Maria unter dem Kreuz;1.0;ChIJTQh-jmFQqEcRN9hibD9bGzU;Katholische Kirche Heilig Kreuz;Hildegardstraße 3A, 10715 Berlin;OK
+vr_002945;Turnerschaft Schöneberg 1904 e. V.;1.0;ChIJ__-vBEBQqEcREFywciMq9OU;Turnerschaft;Freymüllerweg 4A, 12247 Berlin;OK
+vr_005716;Stadtteilverein Schöneberg e. V.;1.0;ChIJdRZKR3EjZUERFMAl-rZwDBY;Stadtteilverein Schöneberg e.V.;Crellestraße 38, 10827 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_001279;Schwimm-Gemeinschaft Schöneberg Berlin e. V.;1.0;ChIJXbvEaxNQqEcRa0JIOKRY9js;Schwimm-Gemeinschaft Schöneberg, Berlin e. V.;Priesterweg 6, 10829 Berlin;OK
+vr_000566;Nachbarschaftsheim Schöneberg e. V.;1.0;ChIJmaJtkHdQqEcRM8_QHqXRUrg;Nachbarschaftsheim Schöneberg;Holsteinische Str. 30, 12161 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_000566;Nachbarschaftsheim Schöneberg e. V.;2.0;ChIJKxEaUGVQqEcRT9es0tTafkg;Nachbarschaftsheim Schöneberg e.V.;Hähnelstraße 5, 12159 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_000566;Nachbarschaftsheim Schöneberg e. V.;3.0;ChIJXY183gpQqEcRkaqYakqd95o;Nachbarschaftsheim Schöneberg e.V. Kindertagesstätte;Riemenschneiderweg 13, 12157 Berlin-Bezirk Tempelhof-Schöneberg;OK
+hrb_256275;Kalamon - Kultur gUG (haftungsbeschränkt);1.0;ChIJVVXFvrRPqEcRV_mSq33S_Is;Kalamon-Institut für arabische Sprache;Wildenbruchstr. 69, 12045 Berlin;OK
+vr_024308;Zentrum für arabische Filmkunst und Kultur e. V.;1.0;ChIJrVOSOEhQqEcRNb3Q7YcZ9uY;Freunde der arabischen Kinemathek, Berlin e.V.;Potsdamer Str. 151, 10783 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_024308;Zentrum für arabische Filmkunst und Kultur e. V.;2.0;ChIJEy8_tURbqEcRjg58t6Le1YM;Der Divan - Das Arabische Kulturhaus;Schützallee 27-29, 14169 Berlin;OK
+vr_024308;Zentrum für arabische Filmkunst und Kultur e. V.;3.0;ChIJu8Mam8lRqEcRF3R0BWoZzpQ;Arsenal Filminstitut e.V.;Gerichtstraße 53, 13347 Berlin;OK
+vr_024264;Deutsch Arabische Freundschaft e. V.;1.0;ChIJzfw4cNBRqEcR30j3nfV4Ez0;DAFG - Deutsch-Arabische Freundschaftsgesellschaft e. V.;Wallstraße 61, 10179 Berlin;OK
+vr_024264;Deutsch Arabische Freundschaft e. V.;2.0;ChIJc-O7M9ZXqEcRTb-SjtpkjJk;Deutsch Arabische Freundschaft & Familienbegegnung e. V.;Semmelländerweg 10, 13593 Berlin-Bezirk Spandau;OK
+vr_024264;Deutsch Arabische Freundschaft e. V.;3.0;ChIJqxlHraZRqEcRgukKRDmbJz4;Deutsch-Arabische Gesellschaft e. V.;Calvinstraße 23, 10557 Berlin;OK
+vr_031117;Deutsch Arabische Freundschaft & Familienbegegnung e. V.;1.0;ChIJzfw4cNBRqEcR30j3nfV4Ez0;DAFG - Deutsch-Arabische Freundschaftsgesellschaft e. V.;Wallstraße 61, 10179 Berlin;OK
+vr_031117;Deutsch Arabische Freundschaft & Familienbegegnung e. V.;2.0;ChIJc-O7M9ZXqEcRTb-SjtpkjJk;Deutsch Arabische Freundschaft & Familienbegegnung e. V.;Semmelländerweg 10, 13593 Berlin-Bezirk Spandau;OK
+vr_026158;Deutsch - Arabische Unabhängige Gemeinde e. V.;1.0;ChIJG6_Su6RPqEcRiAJ2zThyYQY;Deutsch-Arabische Gemeinde e.V.;Boddinstraße 66, 12053 Berlin-Bezirk Neukölln;OK
+vr_026158;Deutsch - Arabische Unabhängige Gemeinde e. V.;2.0;ChIJqxlHraZRqEcRgukKRDmbJz4;Deutsch-Arabische Gesellschaft e. V.;Calvinstraße 23, 10557 Berlin;OK
+vr_026158;Deutsch - Arabische Unabhängige Gemeinde e. V.;3.0;ChIJc-O7M9ZXqEcRTb-SjtpkjJk;Deutsch Arabische Freundschaft & Familienbegegnung e. V.;Semmelländerweg 10, 13593 Berlin-Bezirk Spandau;OK
+vr_036090;Das Arabische Berliner Tor e. V.;1.0;ChIJp9erMrJTqEcRSpqxH3R4FSs;Arabische Schule und Kulturen مدرسة بوابة برلين لتعليم اللغة العربية للناطقين وغير الناطقين بها;Senftenberger Ring 54, 13435 Berlin;OK
+vr_036090;Das Arabische Berliner Tor e. V.;2.0;ChIJWbAB0JxPqEcRlSUKKVtell0;Al-Dar e.V.;Glasower Str. 44, 12051 Berlin-Bezirk Neukölln;OK
+vr_036090;Das Arabische Berliner Tor e. V.;3.0;ChIJK7iKMuqOsUcRHCYD7bGxqys;Berliner Tor;20099 Hamburg, Deutschland;OK
+vr_040901;Arabische Musik Initiative Berlin e.V.;1.0;ChIJ8_pJeOlRqEcR8iFIEhVwKZ0;Initiative Musik gemeinnützige Projektgesellschaft mbH;Friedrichstraße 122, 10117 Berlin;OK
+vr_040901;Arabische Musik Initiative Berlin e.V.;2.0;ChIJV10S5XlQqEcRCEPcYapWIT4;Al Nadi - Treffpunkt für arabische Frauen;Rheinstraße 53-54, 12161 Berlin-Bezirk Tempelhof-Schöneberg;OK
+vr_010201;Arabische Eltern-Union e. V.;1.0;ChIJMU18GMlPqEcRm8iRYNiU6OA;Arabische Eltern-Union e.V.;Urbanstraße 44, 10967 Berlin-Bezirk Friedrichshain-Kreuzberg;OK
+vr_035172;cultiamo.org - Gesellschaft für freie Sprache, Kultur, Geschichte, Geografie, Forschung und Völkerverständigung e. V.;1.0;ChIJC72Qoag5sUcRicbwGVLpuIM;Kulturverein cultimo e.V.;Kuhstedtermoor 24, 27442 Gnarrenburg-Kuhstedtermoor;OK
+vr_035172;cultiamo.org - Gesellschaft für freie Sprache, Kultur, Geschichte, Geografie, Forschung und Völkerverständigung e. V.;2.0;ChIJo6vb1btPqEcRMsIEBIlLPkk;cultures interactive e.V.;Mainzer Str. 11, 12053 Berlin-Bezirk Neukölln;OK
+vr_029944;Zentrum für Bildung und Sprache (ZeBuS) e. V.;1.0;ChIJV4s-OQtPqEcReadGumESQHo;ZeBuS e.V. Zentrum für Bildung und Sprache e.V.;Richardstraße 66, 12055 Berlin-Bezirk Neukölln;OK
+hrb_181979;ZS Gewobag Projektentwicklung Wendenschloßstraße GmbH;1.0;ChIJRQ4HPRVUqEcR07BukWmQAD4;Gewobag Wohnungsbau-Aktiengesellschaft Berlin;Alt-Moabit 101A, 10559 Berlin;OK
+hrb_181979;ZS Gewobag Projektentwicklung Wendenschloßstraße GmbH;2.0;ChIJw-wCM-RHqEcRC4NoOvKzPME;WBG Wendenschloß eG;Wendenschloßstraße 331, 12557 Berlin;OK
+hrb_181979;ZS Gewobag Projektentwicklung Wendenschloßstraße GmbH;3.0;ChIJV-sNNMVRqEcRfAyjooTub8I;Gewobag VB Vermögensverwaltungs- und Betriebsgesellschaft mbH;Alt-Moabit 101A, 10559 Berlin;OK

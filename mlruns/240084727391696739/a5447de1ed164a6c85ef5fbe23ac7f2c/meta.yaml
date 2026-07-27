@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/a5447de1ed164a6c85ef5fbe23ac7f2c/artifacts
+end_time: 1785168905451
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: a5447de1ed164a6c85ef5fbe23ac7f2c
+run_name: Ablation - Ohne Anschrift
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785168904387
+status: 3
+tags: []
+user_id: woncs

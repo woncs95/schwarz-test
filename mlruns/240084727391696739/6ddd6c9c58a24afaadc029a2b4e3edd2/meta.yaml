@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/6ddd6c9c58a24afaadc029a2b4e3edd2/artifacts
+end_time: 1785165763972
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: 6ddd6c9c58a24afaadc029a2b4e3edd2
+run_name: Complement Naive Bayes text only
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785165763485
+status: 3
+tags: []
+user_id: woncs

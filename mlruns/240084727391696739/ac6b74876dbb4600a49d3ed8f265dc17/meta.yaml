@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/ac6b74876dbb4600a49d3ed8f265dc17/artifacts
+end_time: 1785168080371
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: ac6b74876dbb4600a49d3ed8f265dc17
+run_name: SGD log loss balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785168079856
+status: 3
+tags: []
+user_id: woncs

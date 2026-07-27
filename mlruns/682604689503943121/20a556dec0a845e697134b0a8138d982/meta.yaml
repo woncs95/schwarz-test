@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/toydev/schwarz-test/mlruns/682604689503943121/20a556dec0a845e697134b0a8138d982/artifacts
+deleted_time: 1784733426757
+end_time: 1784732967414
+entry_point_name: ''
+experiment_id: '682604689503943121'
+lifecycle_stage: deleted
+run_id: 20a556dec0a845e697134b0a8138d982
+run_name: beautiful-wren-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784732933848
+status: 4
+tags: []
+user_id: woncs

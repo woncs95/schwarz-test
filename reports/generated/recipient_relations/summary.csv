@@ -1,0 +1,13 @@
+metric,value
+rows_total,57469.0
+rows_with_empfaengerid,55987.0
+unique_empfaengerid,10668.0
+id_to_name_row_agreement,0.8967974708414453
+id_to_address_row_agreement,0.8738457141836498
+id_and_year_to_address_row_agreement,0.9352349652597924
+name_and_address_to_id_row_agreement,0.9988032936217336
+ids_with_multiple_names,1499.0
+ids_with_multiple_addresses,2067.0
+ids_observed_in_multiple_years,5244.0
+ids_with_address_change_across_years,1556.0
+name_address_pairs_linked_to_multiple_ids,49.0

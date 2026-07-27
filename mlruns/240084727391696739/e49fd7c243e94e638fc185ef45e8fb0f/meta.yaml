@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/e49fd7c243e94e638fc185ef45e8fb0f/artifacts
+end_time: 1785158246033
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: e49fd7c243e94e638fc185ef45e8fb0f
+run_name: Linear SVC balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785158245593
+status: 3
+tags: []
+user_id: woncs

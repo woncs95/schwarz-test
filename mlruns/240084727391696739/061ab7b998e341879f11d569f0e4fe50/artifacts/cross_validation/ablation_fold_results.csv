@@ -1,0 +1,5 @@
+Ablation;Basis_Modell;Experimenttyp;fold;fit_time_seconds;score_time_seconds;macro_f1;weighted_f1;balanced_accuracy;accuracy
+Full with geber and art as text;SGD log loss balanced;Repräsentationsexperiment;1;2.87919545173645;0.7559833526611328;0.7587493110781248;0.8809732096973051;0.7712872175744283;0.8777003484320558
+Full with geber and art as text;SGD log loss balanced;Repräsentationsexperiment;2;2.5606839656829834;0.7248609066009521;0.7716311845113879;0.8805588857875793;0.8234141877099246;0.8763937282229965
+Full with geber and art as text;SGD log loss balanced;Repräsentationsexperiment;3;2.6583800315856934;0.8014316558837891;0.756363032178764;0.8787431302347699;0.8098239204948181;0.8743031358885017
+Full with geber and art as text;SGD log loss balanced;Repräsentationsexperiment;4;2.6981306076049805;0.7186129093170166;0.7737703019680826;0.886310563683568;0.8400843595031434;0.8826655052264808

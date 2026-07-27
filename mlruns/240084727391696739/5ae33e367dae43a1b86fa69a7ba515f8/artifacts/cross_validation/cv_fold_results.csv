@@ -1,0 +1,5 @@
+model;fold;macro_f1;weighted_f1;balanced_accuracy;accuracy
+Dummy Classifier;1;;;0.03125;0.19764808362369338
+Dummy Classifier;2;;;0.03125;0.19764808362369338
+Dummy Classifier;3;;;0.03125;0.19773519163763068
+Dummy Classifier;4;;;0.03125;0.19773519163763068

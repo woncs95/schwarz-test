@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/toydev/schwarz-test/mlruns/240084727391696739/37a5ffb674404fd1aafa1943dd40a786/artifacts
+end_time: 1785159998970
+entry_point_name: ''
+experiment_id: '240084727391696739'
+lifecycle_stage: active
+run_id: 37a5ffb674404fd1aafa1943dd40a786
+run_name: Logistic Regression balanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1785159998573
+status: 3
+tags: []
+user_id: woncs
