@@ -33,6 +33,7 @@ models/**/*.bin
 models/**/train.txt
 models/**/valid.txt
 models/**/full_train.txt
+models/**/train_fold_*.txt
 data/processed/fasttext_train.txt
 data/processed/optuna_studies.db
 reports/quarto/logs/

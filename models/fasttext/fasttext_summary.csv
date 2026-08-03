@@ -1,2 +1,2 @@
-model;validation_rows;accuracy;macro_f1;weighted_f1;balanced_accuracy;training_time_seconds;model_path
-fastText;4592;0.9383710801393729;0.7435465329186168;0.9371504625180076;0.717155899547668;58.59;d:\toydev\schwarz-test\models\fasttext\fasttext_politikbereich.bin
+model;CV_Folds;val_accuracy_mean;val_accuracy_std;val_macro_f1_mean;val_macro_f1_std;val_weighted_f1_mean;val_weighted_f1_std;val_balanced_accuracy_mean;val_balanced_accuracy_std;fit_time_total_seconds;final_training_time_seconds;model_path;validation_strategy
+fastText;4;0.8899390243902439;0.0016067828175693904;0.5663942570451016;0.0013130675730055627;0.8837598338598114;0.0017361258391371632;0.5482043005710089;0.0028510207869249897;100.89000000000001;31.97;d:\toydev\schwarz-test\models\fasttext\fasttext_politikbereich.bin;shared_stratified_4_fold_cv

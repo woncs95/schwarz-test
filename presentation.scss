@@ -1,0 +1,103 @@
+/*-- scss:defaults --*/
+$body-bg: #f7f5ef;
+$body-color: #173042;
+$link-color: #1f6f78;
+$presentation-heading-color: #173f5f;
+$presentation-heading-font-weight: 700;
+$presentation-font-size-root: 34px;
+$font-family-sans-serif: "Aptos", "Segoe UI", Arial, sans-serif;
+
+/*-- scss:rules --*/
+.reveal h1, .reveal h2, .reveal h3 {
+  letter-spacing: -0.02em;
+}
+
+.reveal h2 {
+  border-bottom: 4px solid #e39b35;
+  padding-bottom: 0.18em;
+  margin-bottom: 0.55em;
+}
+
+.reveal p, .reveal li, .reveal table {
+  line-height: 1.28;
+}
+
+.reveal table {
+  font-size: 0.72em;
+}
+
+.reveal .slide-number {
+  color: #173f5f;
+  background: transparent;
+}
+
+.metric-card {
+  background: white;
+  border-left: 8px solid #278c82;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(23, 48, 66, 0.10);
+  margin: 0.5em 0;
+  padding: 0.55em 0.7em;
+}
+
+.metric-value, .metric-label {
+  display: block;
+}
+
+.metric-value {
+  color: #173f5f;
+  font-size: 1.75em;
+  font-weight: 800;
+}
+
+.metric-label {
+  color: #56717f;
+  font-size: 0.72em;
+}
+
+.result-card {
+  min-height: 260px;
+  padding: 0.75em;
+  border-radius: 14px;
+  background: white;
+  box-shadow: 0 5px 18px rgba(23, 48, 66, 0.12);
+}
+
+.result-card.blue { border-top: 10px solid #1f5a7a; }
+.result-card.gold { border-top: 10px solid #e39b35; }
+.result-title { font-size: 0.72em; color: #56717f; text-transform: uppercase; letter-spacing: 0.08em; }
+.result-model { font-size: 1.1em; font-weight: 700; margin-top: 0.25em; }
+.result-score { font-size: 2em; font-weight: 800; color: #173f5f; margin: 0.15em 0; }
+
+.takeaway {
+  background: #173f5f;
+  color: white;
+  border-radius: 14px;
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1.3;
+  padding: 1.1em;
+}
+
+.source-note {
+  color: #6b7d86;
+  font-size: 0.46em;
+  margin-top: 0.6em;
+}
+
+.callout {
+  font-size: 0.78em;
+}
+
+.reveal .center {
+  text-align: center;
+}
+
+.reveal img {
+  max-height: 530px;
+  object-fit: contain;
+}
+
+.reveal .cell-output-display {
+  margin-top: 0;
+}

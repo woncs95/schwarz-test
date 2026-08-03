@@ -1,4 +1,5 @@
 model_name;model_type;test_rows;test_accuracy;test_macro_f1;test_weighted_f1;test_balanced_accuracy;prediction_time_seconds;model_path
-best_fasttext_politikbereich;fastText;11480;0.9459059233449477;0.8077631268236054;0.9455311874514735;0.7907068228857892;1.91;d:\toydev\schwarz-test\models\optuna\new_nlp_models\fasttext\best_fasttext_politikbereich.bin
-best_optuna_sgd_hinge;scikit-learn;11480;0.947212543554007;0.7999190007355734;0.947517427178437;0.811270996000228;2.24;d:\toydev\schwarz-test\models\optuna\best_optuna_sgd_hinge.joblib
-logistic_regression_balanced__full_model;scikit-learn;11480;0.6678571428571428;0.5110067252872021;0.6729208307451942;0.6597045071768688;2.14;d:\toydev\schwarz-test\models\control_comparison\logistic_regression_balanced__full_model.joblib
+best_fasttext_politikbereich;fastText;11480;0.9459059233449477;0.8077631268236054;0.9455311874514735;0.7907068228857892;0.5;d:\toydev\schwarz-test\models\optuna\new_nlp_models\fasttext\best_fasttext_politikbereich.bin
+best_optuna_sgd_hinge;scikit-learn;11480;0.947212543554007;0.7999190007355734;0.947517427178437;0.811270996000228;0.55;d:\toydev\schwarz-test\models\optuna\best_optuna_sgd_hinge.joblib
+logistic_regression_balanced__full_model;scikit-learn;11480;0.6678571428571428;0.5110067252872021;0.6729208307451942;0.6597045071768688;0.67;d:\toydev\schwarz-test\models\control_comparison\logistic_regression_balanced__full_model.joblib
+catboost_mixed_features_catboost_iter100_depth4_lr0_10;CatBoost;11480;0.553397212543554;0.395689359113397;0.5631366163854151;0.5426739218518397;0.31;d:\toydev\schwarz-test\models\baseline\catboost_mixed_features_catboost_iter100_depth4_lr0_10.cbm
