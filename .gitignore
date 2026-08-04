@@ -30,10 +30,15 @@ index.csv
 mlruns/
 mlartifacts/
 models/**/*.bin
+models/**/*.safetensors
+models/**/optimizer.pt
+models/**/scheduler.pt
+models/**/rng_state.pth
 models/**/train.txt
 models/**/valid.txt
 models/**/full_train.txt
 models/**/train_fold_*.txt
+models/**/trial_*_train.txt
 data/processed/fasttext_train.txt
 data/processed/optuna_studies.db
 reports/quarto/logs/

@@ -1,0 +1,2 @@
+model;validation_rows;accuracy;macro_f1;weighted_f1;balanced_accuracy;model_path
+deepset/gbert-base fine-tuned;4592;0.9285714285714286;0.7653353147698896;0.9278621461877203;0.7523595479611418;d:\toydev\schwarz-test\models\bert\bert_politikbereich

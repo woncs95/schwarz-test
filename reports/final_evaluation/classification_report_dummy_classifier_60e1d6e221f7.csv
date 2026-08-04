@@ -1,0 +1,36 @@
+;precision;recall;f1-score;support
+Antidiskriminierung;0.0;0.0;0.0;169.0
+Arbeit;0.0;0.0;0.0;1561.0
+Bauen, Wohnen;0.0;0.0;0.0;21.0
+Berlin-Image;0.0;0.0;0.0;1.0
+Bildung;0.0;0.0;0.0;674.0
+Bürgerschaftliches Engagement, Bürgerbeteiligung;0.0;0.0;0.0;351.0
+Denkmalschutz;0.0;0.0;0.0;53.0
+Europa;0.0;0.0;0.0;21.0
+Familie;0.0;0.0;0.0;252.0
+Finanzen;0.0;0.0;0.0;4.0
+Forschung;0.0;0.0;0.0;56.0
+Frauen;0.0;0.0;0.0;48.0
+Gesundheit;0.0;0.0;0.0;565.0
+Gleichstellung;0.0;0.0;0.0;126.0
+Integration;0.0;0.0;0.0;344.0
+Internationales;0.0;0.0;0.0;5.0
+Jugend;0.0;0.0;0.0;1199.0
+Justiz;0.0;0.0;0.0;46.0
+Kirchen, Religions-, Weltanschauungsgemeinschaften;0.0;0.0;0.0;44.0
+Kultur;0.0;0.0;0.0;938.0
+Medien;0.0;0.0;0.0;4.0
+Pflege;0.0;0.0;0.0;110.0
+Sicherheit, Ordnung;0.0;0.0;0.0;32.0
+Soziales;0.0;0.0;0.0;572.0
+Sport;0.0;0.0;0.0;1208.0
+Stadtentwicklung;0.0;0.0;0.0;272.0
+Tierschutz;0.0;0.0;0.0;2.0
+Umwelt;0.0;0.0;0.0;230.0
+Verbraucherschutz;0.0;0.0;0.0;40.0
+Verkehr;0.0;0.0;0.0;221.0
+Wirtschaft;0.19773519163763068;1.0;0.3301818181818182;2270.0
+Wissenschaft;0.0;0.0;0.0;41.0
+accuracy;0.19773519163763068;0.19773519163763068;0.19773519163763068;0.19773519163763068
+macro avg;0.006179224738675959;0.03125;0.010318181818181818;11480.0
+weighted avg;0.039099206011970526;0.19773519163763068;0.06528856509344313;11480.0

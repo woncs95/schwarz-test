@@ -598,6 +598,125 @@ def select_validation_result_columns(
     return selected_columns
 
 
+def get_model_evaluation_display_columns(
+    dataframe: pd.DataFrame,
+    model_column_candidates: Sequence[str] | None = None,
+    include_columns: Sequence[str] | None = None,
+    metric_prefixes: Sequence[str] | None = None,
+    include_fit_time_total: bool = True,
+) -> list[str]:
+    """Return compact display columns for model evaluation tables.
+
+    The helper is intentionally generic so that baseline, ablation,
+    hyperparameter tuning and final test evaluation tables can use the same
+    display logic. By default it shows model identifiers, selected metadata,
+    train/validation/test metrics and the total fit time where available.
+    """
+
+    if model_column_candidates is None:
+        model_column_candidates = [
+            "Modell",
+            "model",
+            "model_name",
+            "Ablation",
+        ]
+
+    if include_columns is None:
+        include_columns = [
+            "CV_Folds",
+            "Experimenttyp",
+            "model_type",
+            "trial_number",
+            "validation_rows",
+            "test_rows",
+        ]
+
+    if metric_prefixes is None:
+        metric_prefixes = [
+            "train_",
+            "val_",
+            "test_",
+        ]
+
+    selected_columns: list[str] = []
+
+    for column in model_column_candidates:
+        if column in dataframe.columns and column not in selected_columns:
+            selected_columns.append(column)
+
+    for column in include_columns:
+        if column in dataframe.columns and column not in selected_columns:
+            selected_columns.append(column)
+
+    metric_columns = [
+        column
+        for column in dataframe.columns
+        if any(column.startswith(prefix) for prefix in metric_prefixes)
+    ]
+
+    for column in metric_columns:
+        if column not in selected_columns:
+            selected_columns.append(column)
+
+    if include_fit_time_total:
+        for column in [
+            "fit_time_total_seconds",
+            "training_time_seconds",
+        ]:
+            if column in dataframe.columns and column not in selected_columns:
+                selected_columns.append(column)
+
+    return selected_columns
+
+
+def display_model_evaluation_table(
+    dataframe: pd.DataFrame,
+    model_column_candidates: Sequence[str] | None = None,
+    include_columns: Sequence[str] | None = None,
+    metric_prefixes: Sequence[str] | None = None,
+    sort_by: str | None = None,
+    ascending: bool = False,
+    include_fit_time_total: bool = True,
+) -> pd.DataFrame:
+    """Display a model evaluation table without truncated columns.
+
+    The function returns the displayed DataFrame as well, so notebooks can
+    reuse it for further inspection if needed.
+    """
+
+    pd.set_option("display.max_columns", None)
+    pd.set_option("display.width", None)
+    pd.set_option("display.max_colwidth", None)
+
+    result = dataframe.copy()
+
+    if sort_by is not None and sort_by in result.columns:
+        result = result.sort_values(
+            sort_by,
+            ascending=ascending,
+            na_position="last",
+        )
+
+    display_columns = get_model_evaluation_display_columns(
+        result,
+        model_column_candidates=model_column_candidates,
+        include_columns=include_columns,
+        metric_prefixes=metric_prefixes,
+        include_fit_time_total=include_fit_time_total,
+    )
+
+    displayed_result = result[display_columns]
+
+    try:
+        from IPython.display import display
+
+        display(displayed_result)
+    except ImportError:
+        print(displayed_result)
+
+    return displayed_result
+
+
 def combine_columns_as_text(
     dataframe: pd.DataFrame,
     columns: Sequence[str],
